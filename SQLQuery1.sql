@@ -5,4 +5,4 @@
 );
 
 INSERT INTO People (FirstName, LastName)
-VALUES ('Akbar', 'Denardo'), ('Beenish', 'Farooqi');
+VALUES ('Akbar', 'Denardo'), ('Austin', 'Myers');
