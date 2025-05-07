@@ -14,9 +14,23 @@ This repo is the result: a tiny console program that connects to a local SQL S
 * Demonstrate secure database access with `Microsoft.Data.SqlClient`.
 * Create a fun bite-sized code as a way to showcase my willingness to learn!
 
-**Clone the repo**
+## How to run this project:
 
-   ```bash
-   git clone https://github.com/akbardenardo/SQL-Practice-in-VS.git
-   cd SQL‑Practice‑in‑VS
+### Steps
 
+```bash
+# Open Git Bash (not PowerShell)
+# Go to your home directory or any folder you want
+cd $HOME
+
+# Clone the repository
+git clone https://github.com/akbardenardo/SQL-Practice-in-VS.git
+
+# Navigate into the cloned project
+cd SQL-Practice-in-VS
+
+# Go into the actual C# project directory
+cd HelloWorld
+
+# Run the app
+dotnet run
