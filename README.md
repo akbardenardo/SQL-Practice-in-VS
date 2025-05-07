@@ -34,3 +34,11 @@ cd HelloWorld
 
 # Run the app
 dotnet run
+```
+
+You should see an output like this:
+
+1: Akbar Denardo
+2: Beenish Farooqi
+
+While this project may seem simple, I am very proud of the work I have done creating a .NET project on GitHub with SQL elements! Thanks for reviewing it. 
